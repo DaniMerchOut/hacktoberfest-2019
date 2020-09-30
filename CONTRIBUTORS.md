@@ -1067,3 +1067,9 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Danial Merchant](https://github.com/DaniMerchOut)
+- Place: Karachi, Pakistan
+- Bio: Learner, Programmer
+- GitHub: [DaniMerchOut](https://github.com/DaniMerchOut)
+
